@@ -1,0 +1,21 @@
+@import "ilves.scss";
+
+$custom-color: gray;
+
+.ilves {
+  @include ilves;
+
+  div.custom-welcome-label {
+    color: $custom-color;
+    height: 200px;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    line-height: 200px;
+  }
+
+  div.gravatar a img {
+    width: 32px;
+    height: 32px;
+  }
+}
