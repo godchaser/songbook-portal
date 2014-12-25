@@ -1,8 +1,9 @@
 Songbook Portal
 ==================
 [![Build Status](https://travis-ci.org/godchaser/songbook-portal.svg)](https://travis-ci.org/godchaser/songbook-portal)
-Fork of opensongbook project
-https://github.com/godchaser/opensongbook
+
+Fork of opensongbook project: https://github.com/godchaser/opensongbook
+
 But as Ilves (former Site-Kit) as portal base.
 
 Building
